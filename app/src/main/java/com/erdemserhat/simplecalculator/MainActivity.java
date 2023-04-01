@@ -137,7 +137,7 @@ public class MainActivity extends AppCompatActivity {
             process = process.substring(0, process.length() - 1);
             text_process.setText(process);
             control();
-            //okay
+
         }
 
     }
