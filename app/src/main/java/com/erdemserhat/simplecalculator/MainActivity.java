@@ -73,6 +73,7 @@ public class MainActivity extends AppCompatActivity {
         process+="6";
         text_process.setText(process);
         control();
+        //Controlling
     }
 
     public void seven(View view){
